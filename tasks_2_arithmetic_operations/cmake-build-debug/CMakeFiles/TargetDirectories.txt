@@ -1,0 +1,3 @@
+D:/Проекты/Проекты на плюсах/tasks_2_arithmetic_operations/cmake-build-debug/CMakeFiles/tasks_2_arithmetic_operations.dir
+D:/Проекты/Проекты на плюсах/tasks_2_arithmetic_operations/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Проекты/Проекты на плюсах/tasks_2_arithmetic_operations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

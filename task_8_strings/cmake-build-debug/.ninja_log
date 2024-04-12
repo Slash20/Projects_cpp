@@ -1,0 +1,11 @@
+# ninja log v5
+0	856	7213941075820559	CMakeFiles/task_8_strings.dir/main.cpp.obj	42202d41eb357a1c
+858	984	7213941077069119	task_8_strings.exe	2cc2ac5a2ad11f23
+3	664	7213941426978185	CMakeFiles/task_8_strings.dir/main.cpp.obj	42202d41eb357a1c
+664	764	7213941427936958	task_8_strings.exe	2cc2ac5a2ad11f23
+4	841	7214027255215098	CMakeFiles/task_8_strings.dir/main.cpp.obj	42202d41eb357a1c
+841	994	7214027256708283	task_8_strings.exe	2cc2ac5a2ad11f23
+3	568	7214056121848457	CMakeFiles/task_8_strings.dir/main.cpp.obj	42202d41eb357a1c
+569	864	7214056124759434	task_8_strings.exe	2cc2ac5a2ad11f23
+3	614	7214058081981758	CMakeFiles/task_8_strings.dir/main.cpp.obj	42202d41eb357a1c
+615	721	7214058082998582	task_8_strings.exe	2cc2ac5a2ad11f23

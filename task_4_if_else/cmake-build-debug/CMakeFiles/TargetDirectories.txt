@@ -1,0 +1,3 @@
+D:/Проекты/Проекты на плюсах/task_4_if_else/cmake-build-debug/CMakeFiles/task_4_if_else.dir
+D:/Проекты/Проекты на плюсах/task_4_if_else/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Проекты/Проекты на плюсах/task_4_if_else/cmake-build-debug/CMakeFiles/rebuild_cache.dir

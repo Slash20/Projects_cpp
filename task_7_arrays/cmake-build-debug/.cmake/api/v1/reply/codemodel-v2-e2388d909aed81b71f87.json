@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "task_7_arrays",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "task_7_arrays::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_7_arrays-Debug-05ad77d45e56d9a74b3b.json",
+					"name" : "task_7_arrays",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/\u041f\u0440\u043e\u0435\u043a\u0442\u044b \u043d\u0430 \u043f\u043b\u044e\u0441\u0430\u0445/task_7_arrays/cmake-build-debug",
+		"source" : "D:/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/\u041f\u0440\u043e\u0435\u043a\u0442\u044b \u043d\u0430 \u043f\u043b\u044e\u0441\u0430\u0445/task_7_arrays"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

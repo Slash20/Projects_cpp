@@ -1,0 +1,3 @@
+D:/Проекты/Проекты на плюсах/task_7_arrays/cmake-build-debug/CMakeFiles/task_7_arrays.dir
+D:/Проекты/Проекты на плюсах/task_7_arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Проекты/Проекты на плюсах/task_7_arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir

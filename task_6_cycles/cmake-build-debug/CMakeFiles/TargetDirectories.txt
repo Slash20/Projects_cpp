@@ -1,0 +1,3 @@
+D:/Проекты/Проекты на плюсах/task_6_cycles/cmake-build-debug/CMakeFiles/task_6_cycles.dir
+D:/Проекты/Проекты на плюсах/task_6_cycles/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Проекты/Проекты на плюсах/task_6_cycles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
